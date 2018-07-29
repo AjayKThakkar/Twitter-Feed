@@ -1,0 +1,45 @@
+/* YOUR STYLING HERE */
+.tweet {
+  margin: 5%;
+  max_width: 95%;
+  padding: 20px;
+  background-color: $light-grey;
+  border: 2px solid black
+}
+
+.profile-picture {
+
+  margin: 1% auto 0% 1%;
+  width: 10%
+
+}
+
+.user-date-info h3 {
+  display: inline;
+  margin: 0% 20% 0% 5%;
+  color: $grey;
+}
+
+.tweet-text p {
+  color: red;
+}
+
+.action-icons {
+
+}
+
+.icon-green {
+color: #00FF00;
+}
+
+.icon-red {
+ color: #ff0000;
+}
+
+.big-space {
+margin: 30px;
+}
+
+.lil-space {
+  margin: 10px;
+}
