@@ -2,7 +2,7 @@
 Created a Twitter data 
 run
 ``` 
-$et get twitter-feed
+$ et get twitter-feed
 $ cd twitter-feed
 $ npm install
 $ npm start
